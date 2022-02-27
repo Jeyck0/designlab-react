@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/designlab-react/static/css/main.04179b6f.css",
-    "main.js": "/designlab-react/static/js/main.8da71672.js",
+    "main.css": "/designlab-react/static/css/main.97d9cf14.css",
+    "main.js": "/designlab-react/static/js/main.49c60a29.js",
     "static/js/787.ac4bfbcd.chunk.js": "/designlab-react/static/js/787.ac4bfbcd.chunk.js",
+    "static/media/34x.jpg": "/designlab-react/static/media/34x.2b31c2bc2069482b4946.jpg",
+    "static/media/24x.jpg": "/designlab-react/static/media/24x.a68b577114c6c3e8cee6.jpg",
+    "static/media/14x.jpg": "/designlab-react/static/media/14x.88dfea7e00aee50684d2.jpg",
+    "static/media/Roboto-Regular.ttf": "/designlab-react/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/logo2@4x-8.png": "/designlab-react/static/media/logo2@4x-8.aa8015a38801bbaf796d.png",
+    "static/media/logo_verde_png@2x-8.png": "/designlab-react/static/media/logo_verde_png@2x-8.539f6ca82c9939b4a0ea.png",
     "index.html": "/designlab-react/index.html",
-    "main.04179b6f.css.map": "/designlab-react/static/css/main.04179b6f.css.map",
-    "main.8da71672.js.map": "/designlab-react/static/js/main.8da71672.js.map",
+    "main.97d9cf14.css.map": "/designlab-react/static/css/main.97d9cf14.css.map",
+    "main.49c60a29.js.map": "/designlab-react/static/js/main.49c60a29.js.map",
     "787.ac4bfbcd.chunk.js.map": "/designlab-react/static/js/787.ac4bfbcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04179b6f.css",
-    "static/js/main.8da71672.js"
+    "static/css/main.97d9cf14.css",
+    "static/js/main.49c60a29.js"
   ]
 }
