@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+.nav-link-grey{
+    color: #BABABA !important;
+  }
+
+
+
+.underline-cel {
+    color: #4AAAAF;      
+    position: relative;
+    opacity: 1;
+    padding: 10px 0px;
+
+}
+
+.underline-cel:hover {
+    opacity: 1;
+}
+
+.underline-cel::before {
+    transition: 300ms;
+    height: 3px;
+    content: "";
+    position: absolute;
+    background-color: #4AAAAF;
+}
+
+.underline-cel::before {
+    width: 100%;
+    bottom: 5px;
+    opacity: 0;
+}
+
+.underline-cel:hover::before {
+    bottom: 10px;
+    opacity: 1;
+}
+
+.somos{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.somos-text{
+    padding-top: 45%; 
+    padding-right: 40px; 
+    font-size: 120%; 
+    padding-left: 20px; 
+    color: #4AAAAF;
+}
+  /*.quienes-somos{
+    position: static;
+  }
+/*
+  .banner-1{        
+    width: 100%;
+    padding-top: 10rem;
+  }
+
+  .banner-1 img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    position: static;
+  }
+
+  .mision-vision{
+    padding-top: 10rem ;
+  }
+
+  .icono{
+    text-align: center;
+  }
+
+ .icono img{
+  height: 200px;
+  width:  200px;
+  }
+
+  .icon-text{
+    font-size: 200%;
+    font-family: 'Roboto', sans-serif; color: #4AAAAF;
+    font-weight: bold;        
+  }
+
+  .icon-text span{
+    border-bottom: 8px solid #BABABA;
+    padding: 10px 0px; 
+  }
+
+  .icon-parap{
+    color: #BABABA;
+    font-size: 120%;
+  } */

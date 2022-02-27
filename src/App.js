@@ -1,13 +1,23 @@
 import './App.css';
-import React from 'react';
+import React,{Component} from 'react';
+import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './assets/fonts/Roboto/Roboto-Regular.ttf';
 
-function App() {
-  return (
-    <div>
-      <h1>hola mundo2</h1>
-    </div>
-  );
+import Index from './components/Index';
+import Nosotros  from './components/Nosotros';
+
+class App extends Component{
+  render(){
+    return(
+      <Router>
+      <Routes>
+        <Route path="/designlab-react/nosotros" element={<Nosotros></Nosotros>}></Route>
+        <Route path="/designlab-react" element={<Index></Index>}></Route>
+      </Routes>
+    </Router>
+    );
+    
+  }
 }
-
 export default App;
