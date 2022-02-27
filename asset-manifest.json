@@ -1,7 +1,7 @@
 {
   "main.css": "/designlab-react/static/css/main.a4458905.chunk.css",
-  "main.js": "/designlab-react/static/js/main.e56290dd.chunk.js",
-  "main.js.map": "/designlab-react/static/js/main.e56290dd.chunk.js.map",
+  "main.js": "/designlab-react/static/js/main.9c177035.chunk.js",
+  "main.js.map": "/designlab-react/static/js/main.9c177035.chunk.js.map",
   "static/js/1.935b0251.chunk.js": "/designlab-react/static/js/1.935b0251.chunk.js",
   "static/js/1.935b0251.chunk.js.map": "/designlab-react/static/js/1.935b0251.chunk.js.map",
   "static/js/2.45de306f.chunk.js": "/designlab-react/static/js/2.45de306f.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/designlab-react/static/js/runtime~main.56ddf6e9.js.map",
   "static/css/main.a4458905.chunk.css.map": "/designlab-react/static/css/main.a4458905.chunk.css.map",
   "index.html": "/designlab-react/index.html",
-  "precache-manifest.efb5b20aafe047105bf03e505e4f5376.js": "/designlab-react/precache-manifest.efb5b20aafe047105bf03e505e4f5376.js",
+  "precache-manifest.db8bc2f7599fc9f4d4e268c3f43877b2.js": "/designlab-react/precache-manifest.db8bc2f7599fc9f4d4e268c3f43877b2.js",
   "service-worker.js": "/designlab-react/service-worker.js"
 }

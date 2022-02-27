@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e56290dd080d399d1cf0",
+    "revision": "9c1770359e85803d3839",
     "url": "/designlab-react/static/css/main.a4458905.chunk.css"
   },
   {
-    "revision": "e56290dd080d399d1cf0",
-    "url": "/designlab-react/static/js/main.e56290dd.chunk.js"
+    "revision": "9c1770359e85803d3839",
+    "url": "/designlab-react/static/js/main.9c177035.chunk.js"
   },
   {
     "revision": "935b0251a626769e024b",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/designlab-react/static/js/runtime~main.56ddf6e9.js"
   },
   {
-    "revision": "3cbe0776caaac869ce67d9bbff234586",
+    "revision": "3a4c798fa22f0cd3b7d4f5362b39ed94",
     "url": "/designlab-react/index.html"
   }
 ];
